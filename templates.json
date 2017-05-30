@@ -7,19 +7,16 @@
 		"price": 9.99,
 		"images": [
 			{
-				"name": "blue.jpg"
+				"name": "http://i.imgur.com/sbDCIEt.jpg"
 			},
 			{
-				"name": "blue2.jpg"
+				"name": "http://i.imgur.com/CbjB00P.jpg"
 			},
 			{
-				"name": "blue3.jpg"
+				"name": "http://i.imgur.com/SrWjoA9.jpg"
 			},
 			{
-				"name": "blue4.jpg"
-			},
-			{
-				"name": "blue5.jpg"
+				"name": "http://i.imgur.com/sQg8dnH.jpg"
 			}
 		]
 	},
@@ -31,7 +28,7 @@
 		"price": 9.99,
 		"images": [
 			{
-				"name": "gray.jpg"
+				"name": "http://i.imgur.com/pliAWOA.jpg"
 			}
 		]
 	},
@@ -43,7 +40,7 @@
 		"price": 9.99,
 		"images": [
 			{
-				"name": "green.jpg"
+				"name": "http://i.imgur.com/KgB6rwt.jpg"
 			}
 		]
 	},
@@ -55,7 +52,7 @@
 		"price": 9.99,
 		"images": [
 			{
-				"name": "orange.jpg"
+				"name": "http://i.imgur.com/AB0oWmr.jpg"
 			}
 		]
 	},
@@ -67,7 +64,7 @@
 		"price": 9.99,
 		"images": [
 			{
-				"name": "purple.jpg"
+				"name": "http://i.imgur.com/l35W0OB.jpg"
 			}
 		]
 	},
@@ -79,7 +76,7 @@
 		"price": 9.99,
 		"images": [
 			{
-				"name": "red.jpg"
+				"name": "http://i.imgur.com/bMbZvUT.jpg"
 			}
 		]
 	}

@@ -7,16 +7,16 @@
 		"price": 9.99,
 		"images": [
 			{
-				"name": "http://i.imgur.com/sbDCIEt.jpg"
+				"name": "https://raw.githubusercontent.com/dhon/templatestore/master/img/blue.jpg"
 			},
 			{
-				"name": "http://i.imgur.com/CbjB00P.jpg"
+				"name": "https://raw.githubusercontent.com/dhon/templatestore/master/img/blue2.jpg"
 			},
 			{
-				"name": "http://i.imgur.com/SrWjoA9.jpg"
+				"name": "https://raw.githubusercontent.com/dhon/templatestore/master/img/blue3.jpg"
 			},
 			{
-				"name": "http://i.imgur.com/sQg8dnH.jpg"
+				"name": "https://raw.githubusercontent.com/dhon/templatestore/master/img/blue4.jpg"
 			}
 		]
 	},
@@ -28,7 +28,7 @@
 		"price": 9.99,
 		"images": [
 			{
-				"name": "http://i.imgur.com/pliAWOA.jpg"
+				"name": "https://raw.githubusercontent.com/dhon/templatestore/master/img/gray.jpg"
 			}
 		]
 	},
@@ -40,7 +40,7 @@
 		"price": 9.99,
 		"images": [
 			{
-				"name": "http://i.imgur.com/KgB6rwt.jpg"
+				"name": "https://raw.githubusercontent.com/dhon/templatestore/master/img/green.jpg"
 			}
 		]
 	},
@@ -52,7 +52,7 @@
 		"price": 9.99,
 		"images": [
 			{
-				"name": "http://i.imgur.com/AB0oWmr.jpg"
+				"name": "https://raw.githubusercontent.com/dhon/templatestore/master/img/orange.jpg"
 			}
 		]
 	},
@@ -64,7 +64,7 @@
 		"price": 9.99,
 		"images": [
 			{
-				"name": "http://i.imgur.com/l35W0OB.jpg"
+				"name": "https://raw.githubusercontent.com/dhon/templatestore/master/img/purple.jpg"
 			}
 		]
 	},
@@ -76,7 +76,7 @@
 		"price": 9.99,
 		"images": [
 			{
-				"name": "http://i.imgur.com/bMbZvUT.jpg"
+				"name": "https://raw.githubusercontent.com/dhon/templatestore/master/img/red.jpg"
 			}
 		]
 	}
